@@ -1,0 +1,6 @@
+5.1
+Gniezno Liczba	152
+Malbork Liczba	183
+Ogrodzieniec Liczba	222
+Przemysl Liczba	198
+5.2
