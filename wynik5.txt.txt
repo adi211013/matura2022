@@ -4,3 +4,16 @@ Malbork Liczba	183
 Ogrodzieniec Liczba	222
 Przemysl Liczba	198
 5.2
+			
+	MAX		7.10 - 14.10
+	8		
+5.3
+Gniezno	Malbork	Ogrodzieniec	Przemyśl	Total
+819000	944240	1115560	1062920	3941720
+				
+%Gniezno	%Malbork	%Ogrodzieniec	%Przemyśl	
+20,78%	23,96%	28,30%	26,97%	
+5.4
+nr zamowienia 154
+data zamowienia	19.03.2021
+
